@@ -1,0 +1,7 @@
+Data Mining task about movie rate prediction.
+
+Including 
+	CollaborativeFilter, use similarity or slopeone.
+	LatentFactorModel, implemention of svd++.
+
+The data format is "uid\tmid\trate".
